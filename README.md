@@ -4,7 +4,7 @@
 #### Full Stack Web Developer...
 
 
-Hello!
+Hello,
 
 I'm a web developer with a passion for creating intuitive and responsive web experiences. I specialize in front-end development, bringing designs to life using modern technologies like HTML5, CSS3, JavaScript, and various frameworks like React and Vue.js. I also have experience with back-end technologies such as Node.js and databases like MongoDB and SQL, allowing me to work across the full stack when needed.
 
@@ -20,7 +20,7 @@ Skills: REACT / JS / HTML / CSS/PHP
 - 🤔 I’m looking for help with Improving my understanding of full-stack development and DevOps practices 
 - 💬 Ask me about as a Web development/Designer, front-end frameworks, and responsive design. 
 - 📫 How to reach me: Contact me via Facebook or WhatsApp: 01317980443, or email at mdtanvirahmedbiplob@gmail.com 
-- 😄 Pronouns: He/Him, She/Her, They/Them (whichever applies to you) 
+- 😄 Pronouns: He/Him, They/Them.
 - ⚡ Fun fact: I built my first website when I was 18, and I've been passionate about coding ever since! 
 
 
