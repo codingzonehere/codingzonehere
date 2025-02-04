@@ -1,4 +1,4 @@
-![Full Stack Web Developer...](https://media.licdn.com/dms/image/v2/D5603AQHLRieALeKpXA/profile-displayphoto-shrink_200_200/B56ZS9uUnRGsAc-/0/1738349826281?e=1744243200&v=beta&t=BuDjm0iN4_C9l3-6dpk23EjJEbep41MLU2Fn9bQ3v8g)
+![Full Stack Web Developer...](https://media.licdn.com/dms/image/v2/D5603AQHLRieALeKpXA/profile-displayphoto-shrink_800_800/B56ZS9uUnRGsAg-/0/1738349826281?e=1744243200&v=beta&t=ALgVE9v8I-tk0aWNvp3RxEPCVVSVnQh_Svn6kgDAHTQ)
 
 ## Hi there 👋, I'm Tanvir Ahmed
 #### Full Stack Web Developer...
